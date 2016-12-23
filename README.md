@@ -2,7 +2,7 @@
 
 # Tarball Utils
 
-This package contains a set of functions for dealing with tarball archives. Test
+This package contains a set of functions for dealing with tarball archives.
 
 # About
 
